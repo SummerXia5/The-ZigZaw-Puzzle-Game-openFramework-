@@ -7,6 +7,7 @@
 * wiped off functions that is unnessasry 
 * Rearraged all files created Headers' folder and CPP's folders 
 * FInished Development Log.
+* Added test cases for those classes that have logic algorithmns including matchboard, soundplayer, destroyer, and image folders. 
 
 ##### December 11th 
 * Trying to implemented Sound Controller
